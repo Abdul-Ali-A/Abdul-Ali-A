@@ -11,13 +11,14 @@ Python • FastAPI • Pydantic • Jinja2 • Pandas • Typer
 
 **Goal:** AI Engineer
 
-**5 Capstone Projects using different Techs(Currently)**
+**6 Capstone Projects using different Techs(Currently)**
 
 ### 🔥 Featured Projects
 - [Sentiment Data Labeler](https://github.com/AAli-A/sentiment-data-labeler) – Beautiful tool to label datasets for ML models
 - [FastAPI User CRUD Manager](https://github.com/AAli-A/fastapi-user-crud-manager) – Full validation + credit-score logic
 - [Spotify Trending 2025](https://github.com/AAli-A/spotify-trending-2025) – Discover top songs by genre (HTML + Python)
 - [GitForge CLI](https://github.com/AAli-A/GitForge) – Rich terminal dashboard for your GitHub stats
+- [Groq AI Chatbot](https://github.com/Abdul-Ali-A/fastapi-ai-groq-chatbot) - FastAPI + OpenAI + Groq Chatbot
 
 **Open to junior remote opportunities**  
 📫 abdulali24776@gmail.com 
