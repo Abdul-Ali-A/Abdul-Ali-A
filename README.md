@@ -1,26 +1,15 @@
-# Hi, I'm Abdul Ali 👋
+### Hi there 👋 I'm Abdul Ali
 
-### Self-Taught Python Developer from Pakistan 🇵🇰
+I am an AI Engineer focused on Scalable Applications & LLM Architecture.
 
-Building different apps(web,cli) completely solo.
+I specialize in building production-ready AI systems using **FastAPI**, **LangChain**, and **Hugging Face**. Most recently, I completed an 8-week research intensive focused on the low-level mechanics of Transformers, including building tokenizers and training loops from scratch.
 
-**Current Stack:**  
-Python • FastAPI • Pydantic • Jinja2 • Pandas • Typer
+#### 🔭 I’m currently working on:
+* **Research:** Reverse-engineering BERT & GPT tokenization algorithms (See my [Advanced LLM Engineering](https://github.com/Abdul-Ali-A/advanced-llm-engineering)repo).
+* **Development:** Building a Multi-LLM Summarizer API that benchmarks cost vs. quality across GPT-4, Claude 3.5, and Grok.
 
-**Learning next:** Scikit-learn → TensorFlow → ML Engineering
-
-**Goal:** AI Engineer
-
-**6 Capstone Projects using different Techs(Currently)**
-
-### 🔥 Featured Projects
-- [Sentiment Data Labeler](https://github.com/AAli-A/sentiment-data-labeler) – Beautiful tool to label datasets for ML models
-- [FastAPI User CRUD Manager](https://github.com/AAli-A/fastapi-user-crud-manager) – Full validation + credit-score logic
-- [Spotify Trending 2025](https://github.com/AAli-A/spotify-trending-2025) – Discover top songs by genre (HTML + Python)
-- [GitForge CLI](https://github.com/AAli-A/GitForge) – Rich terminal dashboard for your GitHub stats
-- [Groq AI Chatbot](https://github.com/Abdul-Ali-A/fastapi-ai-groq-chatbot) - FastAPI + OpenAI + Groq Chatbot
-
-**Open to junior remote opportunities**  
-📫 abdulali24776@gmail.com 
-
-New Project every time after learning new tech(1 Capstone Prject Per Week)
+#### 🛠 Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
